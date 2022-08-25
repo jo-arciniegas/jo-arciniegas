@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-arciniegas)](https://github.com/jo-arciniegas/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-arciniegas&hide=contribs,prs&count_private=true&theme=prussian&show_icons=true)](https://github.com/jo-arciniegas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-arciniegas&layout=compact)](https://github.com/jo-arciniegas/github-readme-stats)
 
 <!--
 **jo-arciniegas/jo-arciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
